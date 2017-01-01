@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
  
-const char* ssid = "Smart Home";
-const char* password = "enggausah";
+const char* ssid = "Nama Wifi yang tersedia";
+const char* password = "Masukan Wifi password";
 
 int ledPin1 = D1;
 int ledPin2 = D2;
